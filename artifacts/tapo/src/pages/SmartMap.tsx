@@ -250,7 +250,7 @@ export default function SmartMap() {
 
     const rtLabel = filterRT !== "all" ? `RT ${filterRT}` : null;
     const rwLabel = filterRW !== "all" ? `RW ${filterRW}` : null;
-    const lokasiLabel = rtLabel ?? rwLabel ?? "seluruh Kelurahan Boting";
+    const lokasiLabel = rtLabel ?? rwLabel ?? "seluruh Kelurahan lagaligo";
 
     if (tampilan === "klaster") {
       const k1 = filteredHouses.filter((h) => h.klaster === "K1").length;
