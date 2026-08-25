@@ -352,7 +352,7 @@ export default function Dashboard() {
           <span className="text-primary">Desa Cantik</span>
         </h1>
         <p className="text-sm text-muted-foreground mt-0.5">
-          Ringkasan perubahan bangunan Kelurahan Boting tahun 2026
+          Ringkasan perubahan bangunan Kelurahan Dangerakko tahun 2026
         </p>
       </div>
 
@@ -590,7 +590,7 @@ export default function Dashboard() {
           <TabsContent value="grafik" className="m-0 p-5">
             <h3 className="text-sm font-semibold mb-1">Perubahan paling dominan</h3>
             <p className="text-xs text-muted-foreground mb-4">
-              Distribusi jenis perubahan yang terdeteksi pada rumah-rumah di Kelurahan Boting
+              Distribusi jenis perubahan yang terdeteksi pada rumah-rumah di Kelurahan Dangerakko
             </p>
             {barData.length === 0 ? (
               <p className="text-sm text-muted-foreground text-center py-8">Tidak ada data perubahan.</p>
