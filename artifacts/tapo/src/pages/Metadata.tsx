@@ -52,17 +52,17 @@ type HousingMetadata = {
  * Tidak lagi bergantung pada API Replit.
  */
 const metadata: HousingMetadata = {
-  namaDataset: "Pendataan Lengkap Perumahan Kelurahan Dangerakko",
+  namaDataset: "Pendataan Lengkap Perumahan Kelurahan Lagaligo",
 
   periodeData: "2026",
 
   sumberData:
-    "Pemerintah Kelurahan Dangerakko, Kecamatan Wara Timur, Kota Palopo",
+    "Pemerintah Kelurahan Lagaligo, Kecamatan Wara Timur, Kota Palopo",
 
   unitObservasi: "Bangunan/Rumah Tangga",
 
   cakupanWilayah:
-    "Kelurahan Dangerakko, Kecamatan Wara Timur, Kota Palopo, sulawesi selatan",
+    "Kelurahan Lagaligo, Kecamatan Wara Timur, Kota Palopo, sulawesi selatan",
 
   jumlahObservasi: 105,
 
