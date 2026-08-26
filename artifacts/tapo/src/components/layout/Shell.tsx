@@ -41,7 +41,7 @@ export function Shell({ children }: ShellProps) {
             <div className="flex flex-col">
               <span className="font-bold text-lg leading-tight tracking-tight">TAPO</span>
               <span className="text-xs text-muted-foreground leading-none font-medium">
-                Kelurahan Boting
+                Kelurahan Lagaligo
               </span>
             </div>
           </div>
