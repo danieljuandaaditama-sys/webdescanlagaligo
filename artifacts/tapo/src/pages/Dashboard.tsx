@@ -352,7 +352,7 @@ export default function Dashboard() {
           <span className="text-primary">Desa Cantik</span>
         </h1>
         <p className="text-sm text-muted-foreground mt-0.5">
-          Ringkasan perubahan bangunan Kelurahan lagaligo tahun 2026
+          Ringkasan perubahan bangunan Kelurahan Lagaligo tahun 2026
         </p>
       </div>
 
